@@ -92,7 +92,7 @@ hunter_add_version(
     PACKAGE_NAME
     CLI11
     VERSION
-    1.8.9
+    1.8.0
     URL
     "https://github.com/CLIUtils/CLI11/archive/v1.8.0.tar.gz"
     SHA1
